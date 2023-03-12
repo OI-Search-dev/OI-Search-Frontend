@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Consolas;
+    src: url("consolas.ttf");
+}
+
 body {
     background: black;
 }

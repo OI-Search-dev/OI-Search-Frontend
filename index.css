@@ -17,7 +17,7 @@ a {
 
 .cover {
     position: fixed;
-    background: url(https://www.wxiou.cn/api/?blur=15&random=1145141919810) center/cover no-repeat;
+    background: url(https://api.oneneko.com/v1/bing_today) center/cover no-repeat;
     z-index: -999;
     height: 100%;
     width: 100%;
